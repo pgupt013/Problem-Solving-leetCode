@@ -1,3 +1,5 @@
+## 1365. How Many Numbers Are Smaller Than the Current Number
+
 num = eval(input("Enter some values"))
 print(type(num))
 print(enumerate(sorted(num)))
